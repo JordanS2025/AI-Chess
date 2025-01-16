@@ -1,0 +1,40 @@
+Game 1
+[Event "Champion Model Analysis Game"]
+[Date "2025.01.16"]
+[White "ChampionModel"]
+[Black "ChampionModel"]
+
+1. b3 g6 2. Bb2 a6 3. Bf6 Nxf6 4. e3 h5 5. Qf3 Rh7 6. a4 Rh8 7. Qf4 Rh7 8. Qxc7 Rh8 9. f3 Rh7 10. Qf4 Rh8 11. Na3 Rh7 12. Nc4 Rh8 13. Rd1 Rh7 14. Qe5 Rh8 15. Qb5 Rh7 16. Qxa6 Rh8 17. Qxb7 Rh7 18. Qxa8 Rh8 19. Nh3 Rh7 20. Qa5 Rh8 21. Qc7 Rh7 22. Na3 Rh8 23. Bd3 Rh7 24. Bb5 Rh8 25. Bf1 Rh7 26. c3 Rh8 27. Nb1 Rh7 28. Qa5 Rh8 29. Bd3 Rh7 30. Bb5 Rh8 31. Bxd7+ Nfxd7 32. Qb5 Rh7 33. Ng5 Rh8 34. Qd5 Rh7 35. Qxf7+ Rxf7 36. Rc1 Ba6 37. e4 Qc8 38. Kf2 Kd8 39. Nh7 Kc7 40. d3 Qe8 41. Ke2 Rf5 42. exf5 gxf5 43. Kd1 Qg6 44. Rg1 Qg7 45. Nf6 Qg6 46. h3 h4 47. Ng4 Kb7 48. Nh6 Ka8 49. Ng8 Qg7 50. Ke1 Qg6 51. Kf1 Qe6 52. Re1 Qb6 53. Ke2 Qb7 54. Kd1 Qc6 55. a5 Qb5 56. c4 Qb6 57. axb6 Bc8 58. b7+ Kxb7 59. g4 Ka8 60. g5 e5 61. Ref1 Ba6 62. Ke1 Kb7 63. Kd1 Ka8 64. Ne7 Bg7 65. Rg4 Nf6 66. gxf6 Nd7 67. Rg5 Bc8 68. Ng6 Bh8 69. Ne7 Nf8 70. Ng6 f4 71. Ne7 Ba6 72. Nc3 Kb8 73. Na2 Ng6 74. Nxg6 Ka7 75. Ne7 Bb7 76. Rf2 Ka6 77. Ng6 Ba8 78. Ne7 Bd5 79. Ng6 Bf7 80. Ne7 Kb7 81. Ng6 Ka8 82. Ne7 Bg8 83. Ng6 Bxf6 84. Ne7 Kb8 85. Ng6 Kb7 86. Ne7 Ka8 87. Ng6 Be6 88. Ne7 e4 89. fxe4 Bc3 90. Rf1 Bd4 91. Rh1 Bf6 92. Rh2 Bc3 93. Rh1 Bd4 94. Rf1 Be3 95. Rf3 Bd2 96. Nc6 Bf7 97. Nd4 Bc3 98. Rg2 Bxd4 99. Rd2 Be3 100. Rh2 Bd2 101. Rh1 Be8 102. Rh2 Bg6 103. Rh1 Bf5 104. exf5 Bc1 105. f6 Bb2 106. Rh2 Ba3 107. Rh1 Bc5 108. Kc1 Bd6 109. Kb2 Ka7 110. Rh2 Ka6 111. Rh1 Bb8 112. Rh2 Bd6 113. Rh1 Kb7 114. Rh2 Ka8 115. Rh1 Bb8 116. Rh2 Bd6 117. Rh1 Be7 118. Rh2 Kb7 119. Rh1 Ka8 120. Rh2 Bxf6+ 121. Ka3 Bc3 122. Rh1 Bd4 123. Rh2 Be3 124. Rh1 Bd2 125. Rh2 Kb7 126. Rh1 Ka8 127. Rh2 Be1 128. Rh1 Kb8 129. Rh2 Kb7 130. Rh1 Ka8 131. Rh2 Bd2 132. Rh1 Bb4+ 133. Kxb4 Kb8 134. Kc5 Kb7 135. Rxf4 Ka8 136. Rh2 Ka7 137. Rh1 Ka6 138. Rh2 Kb7 139. Rh1 Ka8 140. Rh2 Ka7 141. Rh1 Ka6 142. Rh2 Ka7 143. Rh1 Ka6 144. Rh2 Ka5 145. Rh1 Ka6 146. Rh2 Kb7 147. Rh1 Ka8 148. Rh2 Kb8 149. Rh1 Kb7 150. Rh2 Ka8 151. Rh1 Kb7 152. Rh2 Ka8 153. Rh1 Kb7 154. Rh2 Ka8 155. Rh1 Kb8 156. Rh2 Kb7 157. Rh1 Ka8 158. Rh2 Ka7 159. Rh1 Ka6 1/2-1/2
+
+Game 2
+[Event "Champion Model Analysis Game"]
+[Date "2025.01.16"]
+[White "ChampionModel"]
+[Black "ChampionModel"]
+
+1. b3 g6 2. Bb2 a6 3. b4 f5 4. Bxh8 Nf6 5. e4 fxe4 6. Qf3 d5 7. Qg4 h6 8. Ne2 h5 9. Kd1 e3 10. Nd4 Bg7 11. Nb3 Ne4 12. c3 d4 13. cxd4 Bf8 14. fxe3 Nxd2 15. Kc1 Nxb3+ 16. Kb2 hxg4 17. Kxb3 Nc6 18. d5 Rb8 19. a3 Ne5 20. b5 Qd7 21. Bxe5 Bg7 22. h4 Bxe5 23. g3 Qxb5+ 24. Ka2 Bxg3 25. a4 Bh2 26. Be2 Bd6 27. Bd3 Qa5 28. Bb5+ Kf7 29. Nc3 Kf8 30. Rad1 Kg8 31. Rdg1 Kg7 32. Rg2 Kg8 33. Rd2 Kg7 34. Rdd1 Kg8 35. Rdg1 Kg7 36. e4 Kg8 37. Bxa6 Kg7 38. Rg2 Kg8 39. Rd2 Kg7 40. Rdd1 Kg8 41. Rdg1 Kg7 42. Rc1 Kg8 43. Rh2 Kg7 44. Rhh1 Kg8 45. Rh2 Qb6 46. Rhh1 Kg7 47. Rcf1 Kg8 48. Rb1 Kg7 49. Rh2 Kg8 50. Rhh1 Kg7 51. Ka1 Kg8 52. Na2 Kg7 53. Rh2 Kg8 54. Rhh1 Kg7 55. Rh2 Kg8 56. Rhh1 Kg7 57. Rh2 Kg8 58. Rhh1 Kg7 59. Rh2 Kg8 60. Rhh1 1/2-1/2
+
+Game 3
+[Event "Champion Model Analysis Game"]
+[Date "2025.01.16"]
+[White "ChampionModel"]
+[Black "ChampionModel"]
+
+1. b3 g6 2. Bb2 a6 3. Qc1 h6 4. Bd4 Rh7 5. Qb2 Rh8 6. Bb6 Rh7 7. e3 Rh8 8. Bxa6 Rh7 9. b4 Rh8 10. Qb3 Rh7 11. Bxc7 Rh8 12. Nh3 Rh7 13. Bxb7 Rh8 14. Bxa8 Rh7 15. Bc6 Rh8 16. Nc3 Rh7 17. Rd1 Rh8 18. g3 Rh7 19. f3 Rh8 20. Ng5 Rh7 21. h4 Rh8 22. Kf2 Rh7 23. Rdg1 Rh8 24. Bxd7+ Bxd7 25. Nh7 Rxh7 26. Nb5 Rh8 27. d3 Rh7 28. Qc4 Rh8 29. d4 Rh7 30. h5 Rh8 31. d5 Rh7 32. Qd4 Rh8 33. Nd6+ exd6 34. Qa1 Rh7 35. Qd1 Rh8 36. hxg6 Rh7 37. Bb6 Rh8 38. Qe1 Rh7 39. c4 Rh8 40. Qf1 Rh7 41. Qb1 Rh8 42. gxf7+ Kxf7 43. Rh4 Rh7 44. Qb3 Rh8 45. Qd1 Rh7 46. Qb3 Rh8 47. Qd1 Rh7 48. Qb3 Rh8 49. Qd1 Rh7 50. Qb3 Rh8 51. Qd1 Rh7 52. Qb3 1/2-1/2
+
+Game 4
+[Event "Champion Model Analysis Game"]
+[Date "2025.01.16"]
+[White "ChampionModel"]
+[Black "ChampionModel"]
+
+1. b3 g6 2. Bb2 a6 3. Na3 e6 4. Be5 h6 5. Bf6 Rh7 6. Bc3 Rh8 7. Bd4 Rh7 8. b4 Rh8 9. e3 Rh7 10. Qf3 Rh8 11. Rd1 Rh7 12. b5 Rh8 13. Rc1 Rh7 14. Qe2 Rh8 15. Qd3 Rh7 16. bxa6 Rh8 17. Qb5 Rh7 18. Qb3 Rh8 19. e4 Rh7 20. Rb1 Rh8 21. Ke2 Rh7 22. Kd3 Rh8 23. Be5 Rh7 24. Kc3 Rh8 25. Kd4 Rh7 26. Nc4 Rh8 27. Nd6+ Ke7 28. a3 Rh7 29. f4 Rh8 30. Qc4 Rh7 31. Qc5 Rh8 32. Nxb7+ d6 33. Qc6 Rh7 34. g3 Rh8 35. Qa4 Rh7 36. Kc3 Rh8 37. Kd4 Rh7 38. h3 Rh8 39. Rb6 Rh7 40. Ne2 Rh8 41. Bf6+ Nxf6 42. c3 Rh7 43. Qc2 Rh8 44. Qd1 Rh7 45. Qb3 Rh8 46. Qd1 Rh7 47. Qb3 Rh8 48. Qd1 Rh7 49. Qb3 Rh8 50. Qd1 Rh7 51. Qb3 Rh8 52. Qd1 1/2-1/2
+
+Game 5
+[Event "Champion Model Analysis Game"]
+[Date "2025.01.16"]
+[White "ChampionModel"]
+[Black "ChampionModel"]
+
+1. b3 a6 2. Bb2 g6 3. b4 Bh6 4. e3 f5 5. Qf3 d5 6. Ne2 e5 7. Qg4 Bxe3 8. Qc4 Nh6 9. Qc6+ Nd7 10. Qxa6 Nc5 11. bxc5 Ng8 12. Ng3 b5 13. Qxa8 c6 14. Qa4 bxa4 15. Na3 Kf8 16. Rg1 Qc7 17. Rd1 h5 18. Ba6 Rh7 19. Bc4 Rh8 20. Bb5 Rh7 21. Ba6 Rh8 22. d4 Rh7 23. Bc4 Rh8 24. Nb5 Rh7 25. Nxc7 Rh8 26. Rh1 Rh7 27. Ne2 Rh8 28. Nc3 Rh7 29. Bb3 Rh8 30. Ne8 Rh7 31. Ba3 Rh8 32. g3 Rh7 33. f4 Rh8 34. Ke2 Rh7 35. Kd3 Rh8 36. Rdg1 Rh7 37. dxe5 Rh8 38. Rc1 Rh7 39. Bxd5 Rh8 40. Bf7 Rh7 41. Rhf1 Rh8 42. Kxe3 Rh7 43. h4 Rh8 44. Kd2 Rh7 45. Kd1 Rh8 46. Nf6 Rh7 47. Rg1 Rh8 48. Nce4 fxe4 49. Nxg8 Rh7 50. f5 Rh8 51. Ra1 Rh7 52. Bb4 Rh8 53. Be1 Rh7 54. Rg2 Rh8 55. Rd2 Rh7 56. Be6 Rh8 57. c3 Rh7 58. Rd4 Rh8 59. f6 Rh7 60. Bd7 Rh8 61. Rc4 Rh7 62. Be8 Rh8 63. Bxg6 Rh7 64. Bd2 Rh8 65. Bh6+ Kxg8 66. Kd2 Rh7 67. Rd1 Rh8 68. Rg1 Rh7 69. Bf4 Rh8 70. Be3 Rh7 71. Kd1 Rh8 72. g4 Rh7 73. g5 Rh8 74. Re1 Rh7 75. Be8 Rh8 76. Bg6 Rh7 77. Bf5 Rh8 78. Bxe4 Rh7 79. Bf5 Rh8 80. Be4 Rh7 81. Bf5 Rh8 82. Be4 Rh7 83. Bf5 Rh8 84. Be4 Rh7 85. Bf5 Rh8 86. Be4 1/2-1/2
+
