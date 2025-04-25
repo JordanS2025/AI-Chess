@@ -1,0 +1,146 @@
+/* Title Header */
+.title-header {
+  text-align: center;
+  margin: 20px 0;
+  font-size: 2em;
+  font-weight: bold;
+}
+
+/* Main Container */
+.chessboard-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start; /* Changed from center to align tops */
+  gap: 30px;
+  max-width: 1800px;
+  margin: 0 auto;
+  padding: 30px;
+  justify-content: space-around;
+  position: relative; /* To position game-info below */
+}
+
+/* Chessboard */
+.board {
+  width: 100%;
+  max-width: 800px; /* Adjusted to fit alongside move history */
+}
+
+/* Controls */
+.controls {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.controls button {
+  padding: 18px 36px;
+  background-color: #2c88d9;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 1.65em;
+  transition: background-color 0.3s;
+}
+
+.controls button:hover {
+  background-color: #1a6cb5;
+}
+
+/* Move History */
+.move-history {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  max-height: 600px; /* Matches typical chessboard height */
+  overflow-y: auto;
+  padding: 10px;
+  background-color: #f5f5f5;
+  border-radius: 8px;
+  width: 200px;
+}
+
+.move-history h2 {
+  font-size: 1.2em;
+  margin: 0;
+}
+
+.move-history ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.move-history li {
+  padding: 5px 0;
+}
+
+/* Game Info */
+.game-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+  margin-top: 20px;
+  padding: 15px;
+  border-radius: 8px;
+  background-color: #f5f5f5;
+  width: 100%;
+  max-width: 500px;
+  position: absolute;
+  bottom: -120px; /* Positions it below the chessboard */
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.player-info {
+  font-size: 1.2em;
+  padding: 10px;
+  background-color: #e0e0e0;
+  border-radius: 4px;
+  width: 100%;
+  text-align: center;
+}
+
+.status,
+.game-over {
+  margin-top: 10px;
+  padding: 10px;
+  border-radius: 4px;
+  text-align: center;
+  font-weight: bold;
+  width: 100%;
+}
+
+.status {
+  background-color: #f0f7ff;
+  color: #2c88d9;
+}
+
+.game-over {
+  background-color: #f5f5f5;
+  color: #333;
+  border: 1px solid #ddd;
+}
+
+/* Responsive Design */
+@media (max-width: 1200px) {
+  .chessboard-container {
+    flex-direction: column;
+    align-items: center;
+  }
+  .controls,
+  .move-history {
+    width: 100%;
+    max-width: 300px;
+  }
+  .board {
+    max-width: 100%;
+  }
+  .game-info {
+    position: static; /* Reset for stacking */
+    transform: none;
+    margin-top: 30px;
+  }
+}
